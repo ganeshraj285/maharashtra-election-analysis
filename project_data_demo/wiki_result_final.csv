@@ -1,0 +1,289 @@
+District,Constituency,MLA,Party,Constituency_std,consti_no
+Nandurbar,Akkalkuwa (ST),Aamshya Padavi,SHS,AKKALKUWA,1
+Nandurbar,Shahada (ST),Rajesh Padvi,BJP,SHAHADA,2
+Nandurbar,Nandurbar (ST),Vijaykumar Gavit,BJP,NANDURBAR,3
+Nandurbar,Navapur (ST),Shirishkumar Naik,INC,NAVAPUR,4
+Dhule,Sakri (ST),Manjula Gavit,SHS,SAKRI,5
+Dhule,Dhule Rural,Raghavendra Patil,BJP,DHULE RURAL,6
+Dhule,Dhule City,Anup Agrawal,BJP,DHULE CITY,7
+Dhule,Sindkheda,Jayakumar Rawal,BJP,SINDKHEDA,8
+Dhule,Shirpur (ST),Kashiram Pawara,BJP,SHIRPUR,9
+Jalgaon,Chopda (ST),Chandrakant Sonawane,SHS,CHOPDA,10
+Jalgaon,Raver,Amol Jawale,BJP,RAVER,11
+Jalgaon,Bhusawal (SC),Sanjay Savkare,BJP,BHUSAWAL,12
+Jalgaon,Jalgaon City,Suresh Bhole,BJP,JALGAON CITY,13
+Jalgaon,Jalgaon Rural,Gulabrao Patil,SHS,JALGAON RURAL,14
+Jalgaon,Amalner,Anil Bhaidas Patil,NCP,AMALNER,15
+Jalgaon,Erandol,Amol Patil,SHS,ERANDOL,16
+Jalgaon,Chalisgaon,Mangesh Chavan,BJP,CHALISGAON,17
+Jalgaon,Pachora,Kishor Appa Patil,SHS,PACHORA,18
+Jalgaon,Jamner,Girish Mahajan,BJP,JAMNER,19
+Jalgaon,Muktainagar,Chandrakant Nimba Patil,SHS,MUKTAINAGAR,20
+Buldana,Malkapur,Chainsukh Sancheti,BJP,MALKAPUR,21
+Buldana,Buldhana,Sanjay Gaikwad,SHS,BULDHANA,22
+Buldana,Chikhali,Shweta Mahale,BJP,CHIKHALI,23
+Buldana,Sindkhed Raja,Manoj Kayande,NCP,SINDKHED RAJA,24
+Buldana,Mehkar (SC),Siddharth Kharat,SS-UBT,MEHKAR,25
+Buldana,Khamgaon,Akash Fundkar,BJP,KHAMGAON,26
+Buldana,Jalgaon (Jamod),Sanjay Kute,BJP,JALGAON (JAMOD),27
+Akola,Akot,Prakash Bharsakale,BJP,AKOT,28
+Akola,Balapur,Nitin Tale,SS-UBT,BALAPUR,29
+Akola,Akola West,Sajid Khan Pathan,INC,AKOLA WEST,30
+Akola,Akola East,Randhir Savarkar,BJP,AKOLA EAST,31
+Akola,Murtizapur (SC),Harish Pimple,BJP,MURTIZAPUR,32
+Washim,Risod,Amit Zanak,INC,RISOD,33
+Washim,Washim (SC),Shyam Khode,BJP,WASHIM,34
+Washim,Karanja,Sai Prakash Dahake,BJP,KARANJA,35
+Amravati,Dhamangaon Railway,Pratap Adsad,BJP,DHAMANGAON RAILWAY,36
+Amravati,Badnera,Ravi Rana,RYSP[C],BADNERA,37
+Amravati,Amravati,Sulbha Khodke,NCP,AMRAVATI,38
+Amravati,Teosa,Rajesh Wankhade,BJP,TEOSA,39
+Amravati,Daryapur (SC),Gajanan Lawate,SS-UBT,DARYAPUR,40
+Amravati,Melghat (ST),Kewalram Kale,BJP,MELGHAT,41
+Amravati,Achalpur,Pravin Tayade,BJP,ACHALPUR,42
+Amravati,Morshi,Chandu Yawalkar,BJP,MORSHI,43
+Wardha,Arvi,Sumit Wankhede,BJP,ARVI,44
+Wardha,Deoli,Rajesh Bakane,BJP,DEOLI,45
+Wardha,Hinganghat,Samir Kunawar,BJP,HINGANGHAT,46
+Wardha,Wardha,Pankaj Bhoyar,BJP,WARDHA,47
+Nagpur,Katol,Charansing Thakur,BJP,KATOL,48
+Nagpur,Savner,Ashish Deshmukh,BJP,SAVNER,49
+Nagpur,Hingna,Sameer Meghe,BJP,HINGNA,50
+Nagpur,Umred (SC),Sanjay Meshram,INC,UMRED,51
+Nagpur,Nagpur South West,Devendra Fadnavis,BJP,NAGPUR SOUTH WEST,52
+Nagpur,Nagpur South,Mohan Mate,BJP,NAGPUR SOUTH,53
+Nagpur,Nagpur East,Krishna Khopde,BJP,NAGPUR EAST,54
+Nagpur,Nagpur Central,Pravin Datke,BJP,NAGPUR CENTRAL,55
+Nagpur,Nagpur West,Vikas Thakre,INC,NAGPUR WEST,56
+Nagpur,Nagpur North (SC),Nitin Raut,INC,NAGPUR NORTH,57
+Nagpur,Kamthi,Chandrashekhar Bawankule,BJP,KAMTHI,58
+Nagpur,Ramtek,Ashish Jaiswal,SHS,RAMTEK,59
+Bhandara,Tumsar,Raju Karemore,NCP,TUMSAR,60
+Bhandara,Bhandara (SC),Narendra Bhondekar,SHS,BHANDARA,61
+Bhandara,Sakoli,Nana Patole,INC,SAKOLI,62
+Gondia,Arjuni Morgaon (SC),Rajkumar Badole,NCP,ARJUNI MORGAON,63
+Gondia,Tirora,Vijay Rahangdale,BJP,TIRORA,64
+Gondia,Gondiya,Vinod Agrawal,BJP,GONDIYA,65
+Gondia,Amgaon (ST),Sanjay Puram,BJP,AMGAON,66
+Gadchiroli,Armori (ST),Ramdas Masram,INC,ARMORI,67
+Gadchiroli,Gadchiroli (ST),Milind Narote,BJP,GADCHIROLI,68
+Gadchiroli,Aheri (ST),Dharamrao Baba Atram,NCP,AHERI,69
+Chandrapur,Rajura,Deorao Bhongle,BJP,RAJURA,70
+Chandrapur,Chandrapur (SC),Kishor Jorgewar,BJP,CHANDRAPUR,71
+Chandrapur,Ballarpur,Sudhir Mungantiwar,BJP,BALLARPUR,72
+Chandrapur,Bramhapuri,Vijay Wadettiwar,INC,BRAMHAPURI,73
+Chandrapur,Chimur,Bunty Bhangdiya,BJP,CHIMUR,74
+Chandrapur,Warora,Karan Deotale,BJP,WARORA,75
+Yavatmal,Wani,Sanjay Derkar,SS-UBT,WANI,76
+Yavatmal,Ralegaon (ST),Ashok Uike,BJP,RALEGAON,77
+Yavatmal,Yavatmal,Balasaheb Mangulkar,INC,YAVATMAL,78
+Yavatmal,Digras,Sanjay Rathod,SHS,DIGRAS,79
+Yavatmal,Arni (ST),Raju Todsam,BJP,ARNI,80
+Yavatmal,Pusad,Indranil Naik,NCP,PUSAD,81
+Yavatmal,Umarkhed (SC),Kisan Wankhede,BJP,UMARKHED,82
+Nanded,Kinwat,Bhimrao Keram,BJP,KINWAT,83
+Nanded,Hadgaon,Baburao Kadam,SHS,HADGAON,84
+Nanded,Bhokar,Sreejaya Chavan,BJP,BHOKAR,85
+Nanded,Nanded North,Balaji Kalyankar,SHS,NANDED NORTH,86
+Nanded,Nanded South,Anand Tidke,SHS,NANDED SOUTH,87
+Nanded,Loha,Prataprao Chikhalikar,NCP,LOHA,88
+Nanded,Naigaon,Rajesh Pawar,BJP,NAIGAON,89
+Nanded,Deglur (SC),Jitesh Antapurkar,BJP,DEGLUR,90
+Nanded,Mukhed,Tushar Rathod,BJP,MUKHED,91
+Hingoli,Basmath,Chandrakant Nawghare,NCP,BASMATH,92
+Hingoli,Kalamnuri,Santosh Bangar,SHS,KALAMNURI,93
+Hingoli,Hingoli,Tanaji Mutkule,BJP,HINGOLI,94
+Parbhani,Jintur,Meghana Bordikar,BJP,JINTUR,95
+Parbhani,Parbhani,Rahul Vedprakash Patil,SS-UBT,PARBHANI,96
+Parbhani,Gangakhed,Ratnakar Gutte,RSPS,GANGAKHED,97
+Parbhani,Pathri,Rajesh Vitekar,NCP,PATHRI,98
+Jalna,Partur,Babanrao Lonikar,BJP,PARTUR,99
+Jalna,Ghansawangi,Hikmat Udhan,SHS,GHANSAWANGI,100
+Jalna,Jalna,Arjun Khotkar,SHS,JALNA,101
+Jalna,Badnapur (SC),Narayan Kuche,BJP,BADNAPUR,102
+Jalna,Bhokardan,Santosh Danve,BJP,BHOKARDAN,103
+Chhatrapati Sambhaji Nagar,Sillod,Abdul Sattar,SHS,SILLOD,104
+Chhatrapati Sambhaji Nagar,Kannad,Sanjana Jadhav,SHS,KANNAD,105
+Chhatrapati Sambhaji Nagar,Phulambri,Anuradha Chavan,BJP,PHULAMBRI,106
+Chhatrapati Sambhaji Nagar,Aurangabad Central,Pradeep Jaiswal,SHS,AURANGABAD CENTRAL,107
+Chhatrapati Sambhaji Nagar,Aurangabad West (SC),Sanjay Shirsat,SHS,AURANGABAD WEST,108
+Chhatrapati Sambhaji Nagar,Aurangabad East,Atul Save,BJP,AURANGABAD EAST,109
+Chhatrapati Sambhaji Nagar,Paithan,Vilas Bhumre,SHS,PAITHAN,110
+Chhatrapati Sambhaji Nagar,Gangapur,Prashant Bamb,BJP,GANGAPUR,111
+Chhatrapati Sambhaji Nagar,Vaijapur,Ramesh Bornare,SHS,VAIJAPUR,112
+Nashik,Nandgaon,Suhas Kande,SHS,NANDGAON,113
+Nashik,Malegaon Central,Ismail Abdul Khalique,AIMIM,MALEGAON CENTRAL,114
+Nashik,Malegaon Outer,Dadaji Bhuse,SHS,MALEGAON OUTER,115
+Nashik,Baglan (ST),Dilip Borse,BJP,BAGLAN,116
+Nashik,Kalwan (ST),Nitin Pawar,NCP,KALWAN,117
+Nashik,Chandwad,Rahul Aher,BJP,CHANDWAD,118
+Nashik,Yevla,Chhagan Bhujbal,NCP,YEVLA,119
+Nashik,Sinnar,Manikrao Kokate,NCP,SINNAR,120
+Nashik,Niphad,Diliprao Bankar,NCP,NIPHAD,121
+Nashik,Dindori (ST),Narhari Zirwal,NCP,DINDORI,122
+Nashik,Nashik East,Rahul Dhikale,BJP,NASHIK EAST,123
+Nashik,Nashik Central,Devayani Farande,BJP,NASHIK CENTRAL,124
+Nashik,Nashik West,Seema Hiray,BJP,NASHIK WEST,125
+Nashik,Deolali (SC),Saroj Ahire,NCP,DEOLALI,126
+Nashik,Igatpuri (ST),Hiraman Khoskar,NCP,IGATPURI,127
+Palghar,Dahanu (ST),Vinod Bhiva Nikole,CPI(M),DAHANU,128
+Palghar,Vikramgad (ST),Harishchandra Bhoye,BJP,VIKRAMGAD,129
+Palghar,Palghar (ST),Rajendra Gavit,SHS,PALGHAR,130
+Palghar,Boisar (ST),Vilas Tare,SHS,BOISAR,131
+Palghar,Nalasopara,Rajan Naik,BJP,NALASOPARA,132
+Palghar,Vasai,Sneha Pandit,BJP,VASAI,133
+Thane,Bhiwandi Rural (ST),Shantaram More,SHS,BHIWANDI RURAL,134
+Thane,Shahapur (ST),Daulat Daroda,NCP,SHAHAPUR,135
+Thane,Bhiwandi West,Mahesh Choughule,BJP,BHIWANDI WEST,136
+Thane,Bhiwandi East,Rais Shaikh,SP,BHIWANDI EAST,137
+Thane,Kalyan West,Vishwanath Bhoir,SHS,KALYAN WEST,138
+Thane,Murbad,Kisan Kathore,BJP,MURBAD,139
+Thane,Ambernath (SC),Balaji Kinikar,SHS,AMBERNATH,140
+Thane,Ulhasnagar,Kumar Ailani,BJP,ULHASNAGAR,141
+Thane,Kalyan East,Sulbha Gaikwad,BJP,KALYAN EAST,142
+Thane,Dombivli,Ravindra Chavan,BJP,DOMBIVLI,143
+Thane,Kalyan Rural,Rajesh More,SHS,KALYAN RURAL,144
+Thane,Mira Bhayandar,Narendra Mehta,BJP,MIRA BHAYANDAR,145
+Thane,Ovala-Majiwada,Pratap Sarnaik,SHS,OVALA-MAJIWADA,146
+Thane,Kopri-Pachpakhadi,Eknath Shinde,SHS,KOPRI-PACHPAKHADI,147
+Thane,Thane,Sanjay Kelkar,BJP,THANE,148
+Thane,Mumbra-Kalwa,Jitendra Awhad,NCP-SP,MUMBRA-KALWA,149
+Thane,Airoli,Ganesh Naik,BJP,AIROLI,150
+Thane,Belapur,Manda Mhatre,BJP,BELAPUR,151
+Mumbai Suburban,Borivali,Sanjay Upadhyay,BJP,BORIVALI,152
+Mumbai Suburban,Dahisar,Manisha Chaudhary,BJP,DAHISAR,153
+Mumbai Suburban,Magathane,Prakash Surve,SHS,MAGATHANE,154
+Mumbai Suburban,Mulund,Mihir Kotecha,BJP,MULUND,155
+Mumbai Suburban,Vikhroli,Sunil Raut,SS-UBT,VIKHROLI,156
+Mumbai Suburban,Bhandup West,Ashok Patil,SHS,BHANDUP WEST,157
+Mumbai Suburban,Jogeshwari East,Anant Nar,SS-UBT,JOGESHWARI EAST,158
+Mumbai Suburban,Dindoshi,Sunil Prabhu,SS-UBT,DINDOSHI,159
+Mumbai Suburban,Kandivali East,Atul Bhatkhalkar,BJP,KANDIVALI EAST,160
+Mumbai Suburban,Charkop,Yogesh Sagar,BJP,CHARKOP,161
+Mumbai Suburban,Malad West,Aslam Shaikh,INC,MALAD WEST,162
+Mumbai Suburban,Goregaon,Vidya Thakur,BJP,GOREGAON,163
+Mumbai Suburban,Versova,Haroon Rashid Khan,SS-UBT,VERSOVA,164
+Mumbai Suburban,Andheri West,Ameet Satam,BJP,ANDHERI WEST,165
+Mumbai Suburban,Andheri East,Murji Patel,SHS,ANDHERI EAST,166
+Mumbai Suburban,Vile Parle,Parag Alavani,BJP,VILE PARLE,167
+Mumbai Suburban,Chandivali,Dilip Lande,SHS,CHANDIVALI,168
+Mumbai Suburban,Ghatkopar West,Ram Kadam,BJP,GHATKOPAR WEST,169
+Mumbai Suburban,Ghatkopar East,Parag Shah,BJP,GHATKOPAR EAST,170
+Mumbai Suburban,Mankhurd Shivaji Nagar,Abu Asim Azmi,SP,MANKHURD SHIVAJI NAGAR,171
+Mumbai Suburban,Anushakti Nagar,Sana Malik,NCP,ANUSHAKTI NAGAR,172
+Mumbai Suburban,Chembur,Tukaram Kate,SHS,CHEMBUR,173
+Mumbai Suburban,Kurla(SC),Mangesh Kudalkar,SHS,KURLA,174
+Mumbai Suburban,Kalina,Sanjay Potnis,SS-UBT,KALINA,175
+Mumbai Suburban,Vandre East,Varun Sardesai,SS-UBT,VANDRE EAST,176
+Mumbai Suburban,Vandre West,Ashish Shelar,BJP,VANDRE WEST,177
+Mumbai City,Dharavi (SC),Jyoti Gaikwad,INC,DHARAVI,178
+Mumbai City,Sion Koliwada,R. Tamil Selvan,BJP,SION KOLIWADA,179
+Mumbai City,Wadala,Kalidas Kolambkar,BJP,WADALA,180
+Mumbai City,Mahim,Mahesh Sawant,SS-UBT,MAHIM,181
+Mumbai City,Worli,Aaditya Thackeray,SS-UBT,WORLI,182
+Mumbai City,Shivadi,Ajay Choudhari,SS-UBT,SHIVADI,183
+Mumbai City,Byculla,Manoj Jamsutkar,SS-UBT,BYCULLA,184
+Mumbai City,Malabar Hill,Mangal Lodha,BJP,MALABAR HILL,185
+Mumbai City,Mumbadevi,Amin Patel,INC,MUMBADEVI,186
+Mumbai City,Colaba,Rahul Narwekar,BJP,COLABA,187
+Raigad,Panvel,Prashant Thakur,BJP,PANVEL,188
+Raigad,Karjat,Mahendra Thorve,SHS,KARJAT,189
+Raigad,Uran,Mahesh Baldi,BJP,URAN,190
+Raigad,Pen,Ravisheth Patil,BJP,PEN,191
+Raigad,Alibag,Mahendra Dalvi,SHS,ALIBAG,192
+Raigad,Shrivardhan,Aditi Tatkare,NCP,SHRIVARDHAN,193
+Raigad,Mahad,Bharatshet Gogawale,SHS,MAHAD,194
+Pune,Junnar,Sharaddada Sonavane,IND,JUNNAR,195
+Pune,Ambegaon,Dilip Walse Patil,NCP,AMBEGAON,196
+Pune,Khed Alandi,Babaji Kale,SS-UBT,KHED ALANDI,197
+Pune,Shirur,Dnyaneshwar Katke,NCP,SHIRUR,198
+Pune,Daund,Rahul Kul,BJP,DAUND,199
+Pune,Indapur,Dattatray Bharne,NCP,INDAPUR,200
+Pune,Baramati,Ajit Pawar,NCP,BARAMATI,201
+Pune,Purandar,Vijay Shivtare,SHS,PURANDAR,202
+Pune,Bhor,Shankar Mandekar,NCP,BHOR,203
+Pune,Maval,Sunil Shelke,NCP,MAVAL,204
+Pune,Chinchwad,Shankar Jagtap,BJP,CHINCHWAD,205
+Pune,Pimpri (SC),Anna Bansode,NCP,PIMPRI,206
+Pune,Bhosari,Mahesh Landge,BJP,BHOSARI,207
+Pune,Vadgaon Sheri,Bapusaheb Pathare,NCP-SP,VADGAON SHERI,208
+Pune,Shivajinagar,Siddharth Shirole,BJP,SHIVAJINAGAR,209
+Pune,Kothrud,Chandrakant Patil,BJP,KOTHRUD,210
+Pune,Khadakwasala,Bhimrao Tapkir,BJP,KHADAKWASALA,211
+Pune,Parvati,Madhuri Misal,BJP,PARVATI,212
+Pune,Hadapsar,Chetan Tupe,NCP,HADAPSAR,213
+Pune,Pune Cantonment,Sunil Kamble,BJP,PUNE CANTONMENT,214
+Pune,Kasba Peth,Hemant Rasane,BJP,KASBA PETH,215
+Ahmednagar,Akole (ST),Kiran Lahamate,NCP,AKOLE,216
+Ahmednagar,Sangamner,Amol Khatal,SHS,SANGAMNER,217
+Ahmednagar,Shirdi,Radhakrishna Vikhe Patil,BJP,SHIRDI,218
+Ahmednagar,Kopargaon,Ashutosh Kale,NCP,KOPARGAON,219
+Ahmednagar,Shrirampur (SC),Hemant Ogale,INC,SHRIRAMPUR,220
+Ahmednagar,Nevasa,Vitthalrao Langhe,SHS,NEVASA,221
+Ahmednagar,Shevgaon,Monika Rajale,BJP,SHEVGAON,222
+Ahmednagar,Rahuri,Shivaji Kardile,BJP,RAHURI,223
+Ahmednagar,Parner,Kashinath Date,NCP,PARNER,224
+Ahmednagar,Ahmednagar City,Sangram Jagtap,NCP,AHMEDNAGAR CITY,225
+Ahmednagar,Shrigonda,Vikram Pachpute,BJP,SHRIGONDA,226
+Ahmednagar,Karjat Jamkhed,Rohit Pawar,NCP-SP,KARJAT JAMKHED,227
+Beed,Georai (SC),Vijaysinh Pandit,NCP,GEORAI,228
+Beed,Majalgaon,Prakashdada Solanke,NCP,MAJALGAON,229
+Beed,Beed,Sandeep Kshirsagar,NCP-SP,BEED,230
+Beed,Ashti,Suresh Dhas,BJP,ASHTI,231
+Beed,Kaij (SC),Namita Mundada,BJP,KAIJ,232
+Beed,Parli,Dhananjay Munde,NCP,PARLI,233
+Latur,Latur Rural,Ramesh Karad,BJP,LATUR RURAL,234
+Latur,Latur City,Amit Deshmukh,INC,LATUR CITY,235
+Latur,Ahmadpur,Babasaheb Patil,NCP,AHMADPUR,236
+Latur,Udgir (SC),Sanjay Bansode,NCP,UDGIR,237
+Latur,Nilanga,Sambhaji Patil Nilangekar,BJP,NILANGA,238
+Latur,Ausa,Abhimanyu Pawar,BJP,AUSA,239
+Dharashiv,Umarga (SC),Pravin Swami,SS-UBT,UMARGA,240
+Dharashiv,Tuljapur,Ranajagjitsinha Patil,BJP,TULJAPUR,241
+Dharashiv,Dharashiv,Kailas Patil,SS-UBT,DHARASHIV,242
+Dharashiv,Paranda,Tanaji Sawant,SHS,PARANDA,243
+Solapur,Karmala,Narayan Patil,NCP-SP,KARMALA,244
+Solapur,Madha,Abhijeet Patil,NCP-SP,MADHA,245
+Solapur,Barshi,Dilip Sopal,SS-UBT,BARSHI,246
+Solapur,Mohol (SC),Raju Khare,NCP-SP,MOHOL,247
+Solapur,Solapur City North,Vijay Deshmukh,BJP,SOLAPUR CITY NORTH,248
+Solapur,Solapur City Central,Devendra Kothe,BJP,SOLAPUR CITY CENTRAL,249
+Solapur,Akkalkot,Sachin Kalyanshetti,BJP,AKKALKOT,250
+Solapur,Solapur South,Subhash Deshmukh,BJP,SOLAPUR SOUTH,251
+Solapur,Pandharpur,Samadhan Autade,BJP,PANDHARPUR,252
+Solapur,Sangola,Babasaheb Deshmukh,PWPI,SANGOLA,253
+Solapur,Malshiras (SC),Uttamrao Jankar,NCP-SP,MALSHIRAS,254
+Satara,Phaltan (SC),Sachin Patil,NCP,PHALTAN,255
+Satara,Wai,Makrand Jadhav - Patil,NCP,WAI,256
+Satara,Koregaon,Mahesh Shinde,SHS,KOREGAON,257
+Satara,Man,Jaykumar Gore,BJP,MAN,258
+Satara,Karad North,Manoj Ghorpade,BJP,KARAD NORTH,259
+Satara,Karad South,Atulbaba Bhosale,BJP,KARAD SOUTH,260
+Satara,Patan,Shambhuraj Desai,SHS,PATAN,261
+Satara,Satara,Shivendra Raje Bhosale,BJP,SATARA,262
+Ratnagiri,Dapoli,Yogesh Kadam,SHS,DAPOLI,263
+Ratnagiri,Guhagar,Bhaskar Jadhav,SS-UBT,GUHAGAR,264
+Ratnagiri,Chiplun,Shekhar Nikam,NCP,CHIPLUN,265
+Ratnagiri,Ratnagiri,Uday Samant,SHS,RATNAGIRI,266
+Ratnagiri,Rajapur,Kiran Samant,SHS,RAJAPUR,267
+Sindhudurg,Kankavli,Nitesh Rane,BJP,KANKAVLI,268
+Sindhudurg,Kudal,Nilesh Rane,SHS,KUDAL,269
+Sindhudurg,Sawantwadi,Deepak Kesarkar,SHS,SAWANTWADI,270
+Kolhapur,Chandgad,Shivaji Patil,IND,CHANDGAD,271
+Kolhapur,Radhanagari,Prakashrao Abitkar,SHS,RADHANAGARI,272
+Kolhapur,Kagal,Hasan Mushrif,NCP,KAGAL,273
+Kolhapur,Kolhapur South,Amal Mahadik,BJP,KOLHAPUR SOUTH,274
+Kolhapur,Karvir,Chandradip Narke,SHS,KARVIR,275
+Kolhapur,Kolhapur North,Rajesh Kshirsagar,SHS,KOLHAPUR NORTH,276
+Kolhapur,Shahuwadi,Vinay Kore,JSS,SHAHUWADI,277
+Kolhapur,Hatkanangle (SC),Ashokrao Mane,JSS,HATKANANGLE,278
+Kolhapur,Ichalkaranji,Rahul Awade,BJP,ICHALKARANJI,279
+Kolhapur,Shirol,Rajendra Patil Yadravkar,RSVA[D],SHIROL,280
+Sangli,Miraj (SC),Suresh Khade,BJP,MIRAJ,281
+Sangli,Sangli,Sudhir Gadgil,BJP,SANGLI,282
+Sangli,Islampur,Jayant Patil,NCP-SP,ISLAMPUR,283
+Sangli,Shirala,Satyajit Deshmukh,BJP,SHIRALA,284
+Sangli,Palus-Kadegaon,Vishwajeet Kadam,INC,PALUS-KADEGAON,285
+Sangli,Khanapur,Suhas Babar,SHS,KHANAPUR,286
+Sangli,Tasgaon-Kavathe Mahankal,Rohit Patil,NCP-SP,TASGAON-KAVATHE MAHANKAL,287
+Sangli,Jat,Gopichand Padalkar,BJP,JAT,288
